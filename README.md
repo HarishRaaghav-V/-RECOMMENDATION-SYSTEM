@@ -60,4 +60,4 @@ Recommendation systems have revolutionized digital experiences by predicting use
 
 #OUTPUT 
 
-
+![Image](https://github.com/user-attachments/assets/d34403cb-f008-4fba-a69d-6608aff8e08e)
